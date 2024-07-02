@@ -34,10 +34,12 @@
 
 # Запуск.
 
+```
 npm install
 npm start
+```
 
 # Проверка работоспособности.
 
-Коллекция запросов для Postman прилагается в файле _OnetimeLinks.postmancollection.json_
-Swagger открывается по _"<адресу сервиса>/api"_
+* Коллекция запросов для Postman прилагается в файле _OnetimeLinks.postmancollection.json_
+* Swagger открывается по _"<адресу сервиса>/api"_
