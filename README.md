@@ -40,7 +40,7 @@ npm install
 npm start
 ```
 
-#№ Проверка работоспособности.
+## Проверка работоспособности.
 
 * Коллекция запросов для Postman прилагается в файле _OnetimeLinks.postmancollection.json_
 * Swagger открывается по _"<адресу сервиса>/api"_
